@@ -1,0 +1,44 @@
+--- 
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/views/form.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: 
+    - - require
+      - "\""
+      - mixins/auto_hide
+    - - require
+      - "\""
+      - mixins/edit_mode
+    - - require
+      - "\""
+      - views/form_row
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/mixins/auto_hide.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/views/form_row.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: 
+    - - require
+      - "\""
+      - mixins/auto_hide
+    - - require
+      - "\""
+      - mixins/edit_mode
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/english.lproj/default_styles.css: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/english.lproj/strings.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/forms/mixins/edit_mode.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+

@@ -1,0 +1,67 @@
+--- 
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/bootstrap/core.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/Library/Ruby/Gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/core.js: 
+  scan_source: 
+    mtime: 1270321326
+    value: []
+
+/Library/Ruby/Gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/system/browser.js: 
+  scan_source: 
+    mtime: 1270321326
+    value: []
+
+/opt/local/lib/ruby/gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/core.js: 
+  scan_source: 
+    mtime: 1267568996
+    value: []
+
+/Library/Ruby/Gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/setup_body_class_names.js: 
+  scan_source: 
+    mtime: 1270321326
+    value: 
+    - - sc_resource
+      - "'"
+      - setup_body_class_names
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/bootstrap/system/loader.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/opt/local/lib/ruby/gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/system/browser.js: 
+  scan_source: 
+    mtime: 1267568996
+    value: []
+
+/opt/local/lib/ruby/gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/setup_body_class_names.js: 
+  scan_source: 
+    mtime: 1267568996
+    value: 
+    - - sc_resource
+      - "'"
+      - setup_body_class_names
+/Library/Ruby/Gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/system/loader.js: 
+  scan_source: 
+    mtime: 1270321326
+    value: []
+
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/bootstrap/system/browser.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: []
+
+/opt/local/lib/ruby/gems/1.8/gems/sproutcore-1.0.1046/frameworks/sproutcore/frameworks/bootstrap/system/loader.js: 
+  scan_source: 
+    mtime: 1267568996
+    value: []
+
+/Users/tomas/sandbox/abbot/frameworks/sproutcore/frameworks/bootstrap/setup_body_class_names.js: 
+  scan_source: 
+    mtime: 1271196586
+    value: 
+    - - sc_resource
+      - "'"
+      - setup_body_class_names

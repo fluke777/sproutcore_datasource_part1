@@ -1,0 +1,67 @@
+--- 
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/models/task.js: 
+  scan_source: 
+    mtime: 1271704721
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/fixtures/task.js: 
+  scan_source: 
+    mtime: 1271704677
+    value: 
+    - - sc_require
+      - "'"
+      - models/task
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/main.js: 
+  scan_source: 
+    mtime: 1269940569
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/core.js: 
+  scan_source: 
+    mtime: 1271274517
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/data_sources/ds.js: 
+  scan_source: 
+    mtime: 1271711595
+    value: 
+    - - sc_require
+      - "'"
+      - models/person
+    - - sc_require
+      - "'"
+      - models/project
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/models/project.js: 
+  scan_source: 
+    mtime: 1271704790
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/fixtures/person.js: 
+  scan_source: 
+    mtime: 1269957580
+    value: 
+    - - sc_require
+      - "'"
+      - models/person
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/resources/loading.rhtml: 
+  scan_source: 
+    mtime: 1269940569
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/models/person.js: 
+  scan_source: 
+    mtime: 1271151167
+    value: []
+
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/fixtures/project.js: 
+  scan_source: 
+    mtime: 1269954865
+    value: 
+    - - sc_require
+      - "'"
+      - models/project
+/Users/tomas/sandbox/sproutcore_lecture/client/md/apps/md/resources/main_page.js: 
+  scan_source: 
+    mtime: 1269940569
+    value: []
+

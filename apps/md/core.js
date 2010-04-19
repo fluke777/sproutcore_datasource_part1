@@ -1,0 +1,43 @@
+// ==========================================================================
+// Project:   Md
+// Copyright: ©2010 My Company, Inc.
+// ==========================================================================
+/*globals Md */
+
+/** @namespace
+
+  My cool new app.  Describe your application.
+  
+  @extends SC.Object
+*/
+
+
+Md = SC.Application.create(
+  /** @scope Md.prototype */ {
+
+  NAMESPACE: 'Md',
+  VERSION: '0.1.0',
+
+  // This is your application store.  You will use this store to access all
+  // of your model data.  You can also set a data source on this store to
+  // connect to a backend server.  The default setup below connects the store
+  // to any fixtures you define.
+  // store: SC.Store.create().from(SC.Record.fixtures)
+  store: SC.Store.create().from('Md.Ds')
+  // store: SC.Store.create({ 
+    // commitRecordsAutomatically: YES
+  // }).from('Md.Ds')
+  // TODO: Add global constants or singleton objects needed by your app here.
+
+}) ;
+
+Md.PEOPLE_QUERY             = SC.Query.local(Md.Person, {
+    orderBy: 'lastName, firstName'
+});
+Md.PEOPLE_OF_MONTH_QUERY    = SC.Query.remote(Md.Person, {
+    anoteherParam: 'something'
+});
+
+Md.PEOPLE_LIST_QUERY        = SC.Query.remote(Md.Person);
+
+Md.PROJECTS_QUERY        = SC.Query.local(Md.Project);
